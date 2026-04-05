@@ -1,0 +1,11 @@
+# MCP Server
+fastmcp==3.1.1
+
+# Web Search (no API key required)
+duckduckgo-search==8.1.1
+
+# HTTP / async utilities
+httpx==0.28.1
+
+# Environment variables
+python-dotenv==1.2.2
