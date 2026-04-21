@@ -1,5 +1,9 @@
 ![Image Place Holder](docs/ITC_DAY.png)
 
+API_UDEM - API_UDEM
+https://send.bitwarden.com/#uSShLNsr0Uy8F7QzAUxp0A/PCyJ5vthO47qUx69PTbx8w
+
+
 # UDEM AI Workshop — MCP Agents with Cline & VS Code
 
 ## Overview
