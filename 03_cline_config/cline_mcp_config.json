@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "basic-search-server": {
+      "disabled": false,
+      "timeout": 60,
+      "type": "streamableHttp",
+      "url": "http://localhost:8000/mcp",
+      "_comment": "MCP server from 01_mcp/server.py — run: python 01_mcp/server.py --transport http"
+    },
+    "agents-server": {
+      "disabled": false,
+      "timeout": 60,
+      "type": "streamableHttp",
+      "url": "http://localhost:8001/mcp",
+      "_comment": "MCP server from 02_agents/server.py — run: python 02_agents/server.py --transport http"
+    },
+    "drawio": {
+      "disabled": false,
+      "timeout": 60,
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "/Users/santireycha/Documents/SAP LABS/UDEM_AI_MCP_AGENTS/dep/drawio-mcp/mcp-tool-server/src/index.js"
+      ],
+      "_comment": "Draw.io MCP — replace <REPO_ROOT> with the absolute path to this repository (e.g. /Users/you/UDEM_AI_MCP_AGENTS). Dependencies must be installed first: cd dep/drawio-mcp/mcp-tool-server && npm install"
+    }
+  }
+}

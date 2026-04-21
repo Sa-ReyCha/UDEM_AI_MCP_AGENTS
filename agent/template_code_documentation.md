@@ -1,5 +1,5 @@
 # Code Documentation Template
-## Based on `01_mcp/server_basic/server.py` style
+## Based on `01_mcp/server.py` style
 
 This document defines the documentation conventions used throughout this project.
 All new Python files must follow these patterns for consistency.
@@ -200,4 +200,4 @@ from .utils import my_helper
 
 ---
 
-*Template based on `01_mcp/server_basic/server.py` — keep this file updated as new conventions are adopted.*
+*Template based on `01_mcp/server.py` — keep this file updated as new conventions are adopted.*

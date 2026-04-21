@@ -52,3 +52,9 @@ node_modules/
 *.pem
 *.key
 secrets.json
+
+
+
+agent/*
+
+dep/*
