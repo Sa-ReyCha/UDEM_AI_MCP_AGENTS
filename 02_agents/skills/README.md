@@ -1,4 +1,4 @@
-![Image Place Holder](../docs/ITC_DAY.png)
+![Image Place Holder](../../docs/ITC_DAY.png)
 
 # Skills — Agents Module
 
