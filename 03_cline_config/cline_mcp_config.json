@@ -20,7 +20,7 @@
       "type": "stdio",
       "command": "node",
       "args": [
-        "/Users/santireycha/Documents/SAP LABS/UDEM_AI_MCP_AGENTS/dep/drawio-mcp/mcp-tool-server/src/index.js"
+        "(path)UDEM_AI_MCP_AGENTS/dep/drawio-mcp/mcp-tool-server/src/index.js"
       ],
       "_comment": "Draw.io MCP — replace <REPO_ROOT> with the absolute path to this repository (e.g. /Users/you/UDEM_AI_MCP_AGENTS). Dependencies must be installed first: cd dep/drawio-mcp/mcp-tool-server && npm install"
     }
