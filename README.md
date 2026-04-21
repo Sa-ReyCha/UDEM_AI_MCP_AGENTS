@@ -1,3 +1,5 @@
+![Image Place Holder](docs/ITC_DAY.png)
+
 # UDEM AI Workshop — MCP Agents with Cline & VS Code
 
 ## Overview
